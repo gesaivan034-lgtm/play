@@ -1,0 +1,334 @@
+#EXTM3U
+#EXTINF:0,Матч HD
+#EXTGRP:Матч
+http://178.217.72.72/Match_HD/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Матч
+http://178.217.72.72/Match_Arena_HD/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:Матч
+http://178.217.72.72/Match_Igra_HD/index.m3u8
+#EXTINF:0,Матч ТВ HD
+#EXTGRP:Матч
+http://54.38.180.159/207/video.m3u8?token=A3b61a999e
+#EXTINF:0,Матч ТВ
+#EXTGRP:Матч
+http://iptv46.mcx-ix.ru:8077/match/index.m3u8
+#EXTINF:0,Матч ТВ HD
+#EXTGRP:Матч
+http://iptv46.mcx-ix.ru:8077/match_hd/index.m3u8
+#EXTINF:0,Матч ТВ HD
+#EXTGRP:Матч
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:0,Матч! Премьер
+#EXTGRP:Матч
+http://iptv46.mcx-ix.ru:8077/nash-football/index.m3u8
+#EXTINF:0,Матч! Премьер HD
+#EXTGRP:Матч
+http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:0,Матч! Премьер HD
+#EXTGRP:Матч
+http://iptv46.mcx-ix.ru:8077/nash_football_hd/index.m3u8
+#EXTINF:0,Матч! Премьер HD
+#EXTGRP:Матч
+http://54.38.180.159/208/video.m3u8?token=A3b61a999e
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:Матч
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:Матч
+http://193.25.8.59:8000/fut
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:Матч
+http://192.162.64.99:5000/play/a02y/index.m3u8
+#EXTINF:0,Матч! футбол 1
+#EXTGRP:Матч
+http://tv.ttk.mx:9108
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:Матч
+http://178.212.71.253:8000/play/58/index.m3u8
+#EXTINF:0,МАТЧ! Футбол 1
+#EXTGRP:Матч
+http://194.143.148.28:8080/MatchFutbol1/mpegts
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Матч
+http://54.38.180.159/202/video.m3u8?token=A3b61a999e
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Матч
+http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Матч
+http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 1 HD
+#EXTGRP:Матч
+http://tv.ttk.mx:9114
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Матч
+http://95.181.17.6/7nvenc/NTVplusfut1HD/71/fhd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:Матч
+http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:Матч
+http://193.25.8.59:8000/fut
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:Матч
+http://192.162.64.99:5000/play/a02z/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Матч
+http://54.38.180.159/203/video.m3u8?token=A3b61a999e
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Матч
+http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Матч
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 2 HD
+#EXTGRP:Матч
+http://tv.ttk.mx:9111
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Матч
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Матч
+http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:Матч
+http://193.25.8.59:8000/fut3
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:Матч
+http://192.162.64.99:5000/play/a030/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:Матч
+http://tv.ttk.mx:9112
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Матч
+http://54.38.180.159/204/video.m3u8?token=A3b61a999e
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Матч
+http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Матч
+http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
+#EXTINF:0,МАТЧ! ФУТБОЛ 3 HD
+#EXTGRP:Матч
+http://tv.ttk.mx:9116
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Матч
+http://95.181.17.14/dvr02/mobile1/NTVplusfut3HD/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:Матч
+http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:0,Окко Прайм Спорт
+#EXTGRP:Окко
+http://54.38.180.159/236/video.m3u8?token=A3b61a999e
+#EXTINF:0,Окко Спорт HD
+#EXTGRP:Окко
+http://54.38.180.159/238/video.m3u8?token=A3b61a999e
+#EXTINF:0,Окко Спорт HD
+#EXTGRP:Окко
+http://de.online24.pm/play/7337/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Окко Футбол HD
+#EXTGRP:Окко
+http://54.38.180.159/232/video.m3u8?token=A3b61a999e
+#EXTINF:0,Setanta Sports Premium HD
+#EXTGRP:Setanta
+http://de.online24.pm/play/1650/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Setanta Sports UA
+#EXTGRP:Setanta
+http://54.38.180.159/214/video.m3u8?token=A3b61a999e
+#EXTINF:0,Setanta Sports HD UA
+#EXTGRP:Setanta
+http://54.38.180.159/222/video.m3u8?token=A3b61a999e
+#EXTINF:0,Setanta Sports HD UA
+#EXTGRP:Setanta
+http://54.38.180.159/214/video.m3u8?token=A3b61a999e
+#EXTINF:0,Setanta Sports HD UA
+#EXTGRP:Setanta
+http://de.online24.pm/play/9957/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Setanta
+http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Setanta
+http://de.online24.pm/play/942/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Setanta
+http://54.38.180.159/220/video.m3u8?token=A3b61a999e
+#EXTINF:0,Setanta Sports 1 HD
+#EXTGRP:Setanta
+http://de.online24.pm/play/9957/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Setanta
+http://54.38.180.159/221/video.m3u8?token=A3b61a999e
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Setanta
+http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:0,Setanta Sports 2 HD
+#EXTGRP:Setanta
+http://de.online24.pm/play/942/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Megogo Футбол 1 HD
+#EXTGRP:Megogo
+http://54.38.180.159/233/video.m3u8?token=A3b61a999e
+#EXTINF:0,Megogo Футбол 2 HD
+#EXTGRP:Megogo
+http://54.38.180.159/234/video.m3u8?token=A3b61a999e
+#EXTINF:0,Megogo Футбол 3 HD
+#EXTGRP:Megogo
+http://54.38.180.159/235/video.m3u8?token=A3b61a999e
+#EXTINF:0,Megogo Спорт HD
+#EXTGRP:Megogo
+http://54.38.180.159/237/video.m3u8?token=A3b61a999e
+#EXTINF:0,Football Live 1
+#EXTGRP:Football Live
+http://de.online24.pm/play/1704/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 2
+#EXTGRP:Football Live
+http://de.online24.pm/play/1705/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 3
+#EXTGRP:Football Live
+http://de.online24.pm/play/1706/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 4
+#EXTGRP:Football Live
+http://de.online24.pm/play/1707/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 5
+#EXTGRP:Football Live
+http://de.online24.pm/play/1708/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 6
+#EXTGRP:Football Live
+http://de.online24.pm/play/1709/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 7
+#EXTGRP:Football Live
+http://de.online24.pm/play/1710/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 8
+#EXTGRP:Football Live
+http://de.online24.pm/play/1711/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 9
+#EXTGRP:Football Live
+http://de.online24.pm/play/1712/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 10
+#EXTGRP:Football Live
+http://de.online24.pm/play/1713/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 11
+#EXTGRP:Football Live
+http://de.online24.pm/play/1714/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Football Live 12
+#EXTGRP:Football Live
+http://de.online24.pm/play/1715/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 1
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5009/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 2
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5010/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 3
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5011/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 4
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5012/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 5
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5014/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 6
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5013/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 7
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5015/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 8
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5016/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 9
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5017/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 10
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5018/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 11
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5019/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,VIP Sport 12
+#EXTGRP:VIP Sport
+http://de.online24.pm/play/5020/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Vital Sport 1
+#EXTGRP:Vital Sport
+http://de.online24.pm/play/5021/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Vital Sport 2
+#EXTGRP:Vital Sport
+http://de.online24.pm/play/5022/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Vital Sport 3
+#EXTGRP:Vital Sport
+http://de.online24.pm/play/5023/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Vital Sport 4
+#EXTGRP:Vital Sport
+http://de.online24.pm/play/5024/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Vital Sport 5
+#EXTGRP:Vital Sport
+http://de.online24.pm/play/5025/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Vital Sport 6
+#EXTGRP:Vital Sport
+http://de.online24.pm/play/5026/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Fint Ga 1
+#EXTGRP:Fint Ga
+http://de.online24.pm/play/5027/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Fint Ga 2
+#EXTGRP:Fint Ga
+http://de.online24.pm/play/5028/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Fint Ga 3
+#EXTGRP:Fint Ga
+http://de.online24.pm/play/5029/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Fint Ga 4
+#EXTGRP:Fint Ga
+http://de.online24.pm/play/5030/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Fint Ga 5
+#EXTGRP:Fint Ga
+http://de.online24.pm/play/5030/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Pimple 1
+#EXTGRP:Pimple
+http://127.0.0.1:6878/ace/getstream?id=bc99becb2a74f8f455d6dbaa3bd85c6c7e938a6c
+#EXTINF:0,Pimple 1
+#EXTGRP:Pimple
+http://de.online24.pm/play/5032/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Pimple 2
+#EXTGRP:Pimple
+http://127.0.0.1:6878/ace/getstream?id=016d48fb89bb9505ab3f883db1bfb3a7c0a3eccc
+#EXTINF:0,Pimple 2
+#EXTGRP:Pimple
+http://de.online24.pm/play/5033/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Pimple 3
+#EXTGRP:Pimple
+http://127.0.0.1:6878/ace/getstream?id=e38b33c56332de27ff25df223cdf488b1ec6051f
+#EXTINF:0,Pimple 3
+#EXTGRP:Pimple
+http://de.online24.pm/play/5034/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Pimple 4
+#EXTGRP:Pimple
+http://127.0.0.1:6878/ace/getstream?id=350b2044f1c9e87e18d8fbda1bcc456c22cf9296
+#EXTINF:0,Pimple 4
+#EXTGRP:Pimple
+http://de.online24.pm/play/5035/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Pimple 5
+#EXTGRP:Pimple
+http://127.0.0.1:6878/ace/getstream?id=aca05dc506242324c1727525d0535ceda24f8dea
+#EXTINF:0,Pimple 6
+#EXTGRP:Pimple
+http://127.0.0.1:6878/ace/getstream?id=8442b5c7c99e5af57c2c40c1e28153072968988a
+#EXTINF:0,Pimple 6
+#EXTGRP:Pimple
+http://de.online24.pm/play/5036/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:0,Суспільне Спорт HD UA
+#EXTGRP:Разное
+http://54.38.180.159/240/video.m3u8?token=A3b61a999e
+#EXTINF:0,Футбол HD
+#EXTGRP:Футбол
+http://iptv46.mcx-ix.ru:8077/football/index.m3u8
+#EXTINF:0,Телеканал Футбол
+#EXTGRP:Футбол
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjMvMjAyNSA2OjU3OjI0IEFNJmhhc2hfdmFsdWU9YzllSzQ3R3FRVFQ3NjEwcThIRlU4Zz09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:0,Футбол HD
+#EXTGRP:Футбол
+http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:0,Футбольный HD
+#EXTGRP:Футбол
+http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
